@@ -1,0 +1,6187 @@
+{
+  "id": "VariableCollectionId:6346:12066",
+  "name": "Localization",
+  "modes": {
+    "6346:0": "en",
+    "6346:1": "pt_br",
+    "6346:2": "es"
+  },
+  "variableIds": [
+    "VariableID:6370:14269",
+    "VariableID:6369:12871",
+    "VariableID:6346:12102",
+    "VariableID:6468:13563",
+    "VariableID:6346:12067",
+    "VariableID:6369:12875",
+    "VariableID:6346:12106",
+    "VariableID:6346:12070",
+    "VariableID:6586:13457",
+    "VariableID:6586:13461",
+    "VariableID:6370:14262",
+    "VariableID:6346:12077",
+    "VariableID:6370:14271",
+    "VariableID:6346:12076",
+    "VariableID:6370:14272",
+    "VariableID:6371:13178",
+    "VariableID:6346:12082",
+    "VariableID:6346:12081",
+    "VariableID:6346:12087",
+    "VariableID:6346:12086",
+    "VariableID:6346:12091",
+    "VariableID:6352:8177",
+    "VariableID:6371:13226",
+    "VariableID:6353:8185",
+    "VariableID:6349:23386",
+    "VariableID:6371:13230",
+    "VariableID:6353:8184",
+    "VariableID:6352:8181",
+    "VariableID:6352:8185",
+    "VariableID:6469:8623",
+    "VariableID:6371:13207",
+    "VariableID:6485:8701",
+    "VariableID:6352:8189",
+    "VariableID:6353:8186",
+    "VariableID:6353:8183",
+    "VariableID:6369:12876",
+    "VariableID:6371:13222",
+    "VariableID:6369:12880",
+    "VariableID:6369:13527",
+    "VariableID:6353:8190",
+    "VariableID:6369:13528",
+    "VariableID:6369:14261",
+    "VariableID:6371:13211",
+    "VariableID:6469:8627",
+    "VariableID:6469:8659",
+    "VariableID:6586:18872",
+    "VariableID:6485:8624",
+    "VariableID:6485:8670",
+    "VariableID:6485:8616",
+    "VariableID:6586:18876",
+    "VariableID:6586:19198",
+    "VariableID:6586:19260",
+    "VariableID:6586:19270",
+    "VariableID:6586:19274",
+    "VariableID:6597:3262",
+    "VariableID:6597:3263",
+    "VariableID:6597:3290",
+    "VariableID:6597:3323",
+    "VariableID:6597:3291",
+    "VariableID:6606:3379",
+    "VariableID:6699:8509",
+    "VariableID:6607:16767",
+    "VariableID:6683:16754",
+    "VariableID:6695:8565",
+    "VariableID:6699:8513",
+    "VariableID:6705:3971",
+    "VariableID:6891:17751",
+    "VariableID:6890:12811",
+    "VariableID:6891:17760",
+    "VariableID:6891:17761",
+    "VariableID:6891:17763",
+    "VariableID:7066:12966",
+    "VariableID:7066:12970",
+    "VariableID:7066:12974",
+    "VariableID:7066:12983",
+    "VariableID:6891:12812",
+    "VariableID:6894:4281",
+    "VariableID:6894:4282",
+    "VariableID:6894:4286",
+    "VariableID:6894:12914",
+    "VariableID:6895:18864",
+    "VariableID:6894:12918",
+    "VariableID:6894:12932",
+    "VariableID:6894:12921",
+    "VariableID:6695:8573",
+    "VariableID:6695:8569",
+    "VariableID:6683:16758",
+    "VariableID:6683:16761",
+    "VariableID:6683:16771",
+    "VariableID:6683:16775",
+    "VariableID:6683:16778",
+    "VariableID:6683:16782",
+    "VariableID:6607:16771",
+    "VariableID:6607:16787",
+    "VariableID:6607:16790",
+    "VariableID:6607:16793",
+    "VariableID:6597:3295",
+    "VariableID:6597:3298",
+    "VariableID:6597:3302",
+    "VariableID:6597:3318",
+    "VariableID:6597:3322",
+    "VariableID:6597:3306",
+    "VariableID:6485:8628",
+    "VariableID:6485:8635",
+    "VariableID:6485:8648",
+    "VariableID:6485:8649",
+    "VariableID:6485:8634",
+    "VariableID:6485:8623",
+    "VariableID:6485:8620",
+    "VariableID:6695:8545",
+    "VariableID:6695:8549",
+    "VariableID:6469:8629",
+    "VariableID:6469:8633",
+    "VariableID:6371:13187",
+    "VariableID:6371:13198",
+    "VariableID:6371:13201",
+    "VariableID:6353:8193",
+    "VariableID:6353:8196",
+    "VariableID:6349:23390",
+    "VariableID:6369:13526",
+    "VariableID:6349:23393",
+    "VariableID:6485:8661",
+    "VariableID:6349:23401",
+    "VariableID:6349:23397",
+    "VariableID:6349:23408",
+    "VariableID:6349:23410",
+    "VariableID:6349:23414",
+    "VariableID:6349:23407",
+    "VariableID:6352:8175",
+    "VariableID:6349:23409",
+    "VariableID:6485:8674",
+    "VariableID:6352:8176",
+    "VariableID:6349:23415",
+    "VariableID:6346:12069",
+    "VariableID:6346:12095",
+    "VariableID:6346:12098",
+    "VariableID:6346:12101",
+    "VariableID:6346:12107",
+    "VariableID:6346:12835",
+    "VariableID:6346:12836",
+    "VariableID:6346:12837",
+    "VariableID:6346:12111",
+    "VariableID:6346:12118",
+    "VariableID:6346:12114",
+    "VariableID:6346:12122",
+    "VariableID:6346:12612",
+    "VariableID:6349:13192",
+    "VariableID:6349:13222",
+    "VariableID:6349:13193",
+    "VariableID:6349:13218",
+    "VariableID:6349:13194",
+    "VariableID:6349:13214",
+    "VariableID:6349:13198",
+    "VariableID:6349:13210",
+    "VariableID:6349:13202",
+    "VariableID:6349:13206",
+    "VariableID:6349:23377",
+    "VariableID:6349:23376",
+    "VariableID:6349:13224",
+    "VariableID:6349:13228",
+    "VariableID:6349:13229",
+    "VariableID:6349:13233",
+    "VariableID:6349:13234",
+    "VariableID:6349:13238",
+    "VariableID:6349:13239",
+    "VariableID:6349:13243",
+    "VariableID:6349:13244",
+    "VariableID:6349:23384",
+    "VariableID:6349:23383",
+    "VariableID:6349:13245",
+    "VariableID:6349:13253",
+    "VariableID:6349:13249",
+    "VariableID:6349:13257",
+    "VariableID:6586:19202",
+    "VariableID:6586:19206",
+    "VariableID:6349:23370",
+    "VariableID:6353:8198",
+    "VariableID:6353:8199",
+    "VariableID:6370:14270",
+    "VariableID:6597:3268",
+    "VariableID:6597:3272",
+    "VariableID:6469:8628",
+    "VariableID:6485:8640",
+    "VariableID:6485:8639",
+    "VariableID:6485:8650",
+    "VariableID:6485:8662",
+    "VariableID:6682:8527",
+    "VariableID:6682:8579",
+    "VariableID:6696:3194",
+    "VariableID:6696:3195",
+    "VariableID:6705:4029",
+    "VariableID:6884:9192",
+    "VariableID:6884:9193",
+    "VariableID:6891:12816",
+    "VariableID:6891:17866",
+    "VariableID:6896:4384",
+    "VariableID:7066:12975",
+    "VariableID:7066:12979"
+  ],
+  "variables": [
+    {
+      "id": "VariableID:6346:12067",
+      "name": "Strings/Main Labels/Monitoring",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Monitoring",
+        "6346:1": "Monitoramento",
+        "6346:2": "Monitoreo"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Monitoring",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Monitoramento",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Monitoreo",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12069",
+      "name": "Samples/Monitoring Name/Variant 1",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Daytime maintenance",
+        "6346:1": "Manutenção diurna",
+        "6346:2": "Mantenimiento diurno"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Daytime maintenance",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Manutenção diurna",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Mantenimiento diurno",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12070",
+      "name": "Strings/Main Labels/Analysis",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Analysis",
+        "6346:1": "Análise",
+        "6346:2": "Análisis"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Analysis",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Análise",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Análisis",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12076",
+      "name": "Strings/Main Labels/Overview",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Overview",
+        "6346:1": "Visão geral",
+        "6346:2": "Descripción general"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Overview",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Visão geral",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Descripción general",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12077",
+      "name": "Strings/Main Labels/Settings",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Settings",
+        "6346:1": "Configurações",
+        "6346:2": "Ajustes"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Settings",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Configurações",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Ajustes",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12081",
+      "name": "Strings/Main Labels/Help",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Help",
+        "6346:1": "Ajuda",
+        "6346:2": "Ayuda"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Help",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Ajuda",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Ayuda",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12082",
+      "name": "Strings/Main Labels/Trigger Catalog",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Trigger catalog",
+        "6346:1": "Catálogo de gatilhos",
+        "6346:2": "Catálogo de activadores"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Trigger catalog",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Catálogo de gatilhos",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Catálogo de activadores",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12086",
+      "name": "Strings/Main Labels/Log out",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Log out",
+        "6346:1": "Sair",
+        "6346:2": "Salir"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Log out",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Sair",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Salir",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12087",
+      "name": "Strings/Main Labels/Language",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Language (Idioma)",
+        "6346:1": "Idioma (Language)",
+        "6346:2": "Idioma (Language)"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Language (Idioma)",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Idioma (Language)",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Idioma (Language)",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12091",
+      "name": "Strings/Main Labels/My Account",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "My account",
+        "6346:1": "Minha conta",
+        "6346:2": "Mi cuenta"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "My account",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Minha conta",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Mi cuenta",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12095",
+      "name": "Samples/Monitoring Name/Variant 2",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Night maintenance",
+        "6346:1": "Manutenção noturna",
+        "6346:2": "Mantenimiento nocturno"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Night maintenance",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Manutenção noturna",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Mantenimiento nocturno",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12098",
+      "name": "Samples/Monitoring Name/Variant 3",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Maneuvering yard",
+        "6346:1": "Pátio de manobras",
+        "6346:2": "Patio de maniobras"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Maneuvering yard",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Pátio de manobras",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Patio de maniobras",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12101",
+      "name": "Samples/Monitoring Name/Variant 4",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Security rounds",
+        "6346:1": "Rondas de segurança",
+        "6346:2": "Rondas de seguridad"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Security rounds",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Rondas de segurança",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Rondas de seguridad",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12102",
+      "name": "Strings/Badges/New",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "New",
+        "6346:1": "Novo",
+        "6346:2": "Nuevo"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "New",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Novo",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Nuevo",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12106",
+      "name": "Strings/Badges/Soon",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Soon",
+        "6346:1": "Em breve",
+        "6346:2": "En breve"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Soon",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Em breve",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "En breve",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12107",
+      "name": "Samples/Company Identification/Company Name",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Company Inc.",
+        "6346:1": "Empresa S.A.",
+        "6346:2": "Compañía S.A."
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Company Inc.",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Empresa S.A.",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Compañía S.A.",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12111",
+      "name": "Samples/Company Identification/Division Name/Variant 1",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "North Division",
+        "6346:1": "Divisão Norte",
+        "6346:2": "División Norte"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "North Division",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Divisão Norte",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "División Norte",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12114",
+      "name": "Samples/Company Identification/Operation Name/Variant 1",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Operation Alpha",
+        "6346:1": "Operação Alfa",
+        "6346:2": "Operación Alfa"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Operation Alpha",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Operação Alfa",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Operación Alfa",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12118",
+      "name": "Samples/Company Identification/Division Name/Variant 2",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "South Division",
+        "6346:1": "Divisão Sul",
+        "6346:2": "División Sur"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "South Division",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Divisão Sul",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "División Sur",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12122",
+      "name": "Samples/Company Identification/Operation Name/Variant 2",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Operation Bravo",
+        "6346:1": "Operação Bravo",
+        "6346:2": "Operación Bravo"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Operation Bravo",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Operação Bravo",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Operación Bravo",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12612",
+      "name": "Samples/Company Identification/Operation Name/Variant 3",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Operation Charlie",
+        "6346:1": "Operação Charlie",
+        "6346:2": "Operación Charlie"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Operation Charlie",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Operação Charlie",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Operación Charlie",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12835",
+      "name": "Samples/User Identification/Name",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "John Doe",
+        "6346:1": "João da Silva",
+        "6346:2": "Juan Pérez"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "John Doe",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "João da Silva",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Juan Pérez",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12836",
+      "name": "Samples/User Identification/Role",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6353:8193"
+        },
+        "6346:1": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6353:8193"
+        },
+        "6346:2": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6353:8193"
+        }
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Health, Safety & Enviroment",
+          "alias": "VariableID:6353:8193",
+          "aliasName": "Strings/Other Labels/Default Permissions/Safety"
+        },
+        "6346:1": {
+          "resolvedValue": "Health, Safety & Enviroment",
+          "alias": "VariableID:6353:8193",
+          "aliasName": "Strings/Other Labels/Default Permissions/Safety"
+        },
+        "6346:2": {
+          "resolvedValue": "Health, Safety & Enviroment",
+          "alias": "VariableID:6353:8193",
+          "aliasName": "Strings/Other Labels/Default Permissions/Safety"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6346:12837",
+      "name": "Samples/User Identification/Email",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "johndoe@company.com",
+        "6346:1": "joaodasilva@empresa.com.br",
+        "6346:2": "juanperez@compania.com"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "johndoe@company.com",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "joaodasilva@empresa.com.br",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "juanperez@compania.com",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13192",
+      "name": "Strings/Main Labels/Sensor",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Sensor",
+        "6346:1": "Sensor",
+        "6346:2": "Sensor"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Sensor",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Sensor",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Sensor",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13193",
+      "name": "Strings/Main Labels/Gateway",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Gateway",
+        "6346:1": "Gateway",
+        "6346:2": "Gateway"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Gateway",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Gateway",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Gateway",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13194",
+      "name": "Strings/Main Labels/Manager",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Manager",
+        "6346:1": "Gestor",
+        "6346:2": "Gerente"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Manager",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Gestor",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Gerente",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13198",
+      "name": "Strings/Main Labels/Worker",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Worker",
+        "6346:1": "Colaborador",
+        "6346:2": "Trabajador"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Worker",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Colaborador",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Trabajador",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13202",
+      "name": "Strings/Main Labels/Broadcast group",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Broadcast group",
+        "6346:1": "Grupo de transmissão",
+        "6346:2": "Grupo de transmisión"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Broadcast group",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Grupo de transmissão",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Grupo de transmisión",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13206",
+      "name": "Strings/Main Labels/Broadcast group (plural)",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Broadcast groups",
+        "6346:1": "Grupos de transmissão",
+        "6346:2": "Grupos de transmisión"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Broadcast groups",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Grupos de transmissão",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Grupos de transmisión",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13210",
+      "name": "Strings/Main Labels/Workers (plural)",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Workers",
+        "6346:1": "Colaboradores",
+        "6346:2": "Trabajadores"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Workers",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Colaboradores",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Trabajadores",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13214",
+      "name": "Strings/Main Labels/Manager (plural)",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Managers",
+        "6346:1": "Gestores",
+        "6346:2": "Gerentes"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Managers",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Gestores",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Gerentes",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13218",
+      "name": "Strings/Main Labels/Gateway (plural)",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Gateways",
+        "6346:1": "Gateways",
+        "6346:2": "Gateways"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Gateways",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Gateways",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Gateways",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13222",
+      "name": "Strings/Main Labels/Sensor (plural)",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Sensors",
+        "6346:1": "Sensores",
+        "6346:2": "Sensores"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Sensors",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Sensores",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Sensores",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13224",
+      "name": "Strings/Main Labels/Permission",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Permission",
+        "6346:1": "Permissão",
+        "6346:2": "Permiso"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Permission",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Permissão",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Permiso",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13228",
+      "name": "Strings/Main Labels/Permission (plural)",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Permissions",
+        "6346:1": "Permissões",
+        "6346:2": "Permisos"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Permissions",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Permissões",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Permisos",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13229",
+      "name": "Strings/Main Labels/Access token",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Access token",
+        "6346:1": "Chave de acesso",
+        "6346:2": "Token de acceso"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Access token",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Chave de acesso",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Token de acceso",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13233",
+      "name": "Strings/Main Labels/Access token (plural)",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Access tokens",
+        "6346:1": "Chaves de acesso",
+        "6346:2": "Tokens de acceso"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Access tokens",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Chaves de acesso",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Tokens de acceso",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13234",
+      "name": "Strings/Main Labels/Incident Action",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Treatment",
+        "6346:1": "Tratativa",
+        "6346:2": "Tratamiento"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Treatment",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Tratativa",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Tratamiento",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13238",
+      "name": "Strings/Main Labels/Incident Actions",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Treatments",
+        "6346:1": "Tratativas",
+        "6346:2": "Tratamientos"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Treatments",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Tratativas",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Tratamientos",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13239",
+      "name": "Strings/Main Labels/Integration",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Integration",
+        "6346:1": "Integração",
+        "6346:2": "Integración"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Integration",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Integração",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Integración",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13243",
+      "name": "Strings/Main Labels/Integration (plural)",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Integrations",
+        "6346:1": "Integrações",
+        "6346:2": "Integraciones"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Integrations",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Integrações",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Integraciones",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13244",
+      "name": "Strings/Main Labels/My Company",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "My company",
+        "6346:1": "Minha empresa",
+        "6346:2": "Mi compañía"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "My company",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Minha empresa",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Mi compañía",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13245",
+      "name": "Strings/Main Labels/Division",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Division",
+        "6346:1": "Divisão",
+        "6346:2": "División"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Division",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Divisão",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "División",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13249",
+      "name": "Strings/Main Labels/Operation",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Operation",
+        "6346:1": "Operação",
+        "6346:2": "Operatión"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Operation",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Operação",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Operatión",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13253",
+      "name": "Strings/Main Labels/Division (plural)",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Divisions",
+        "6346:1": "Divisões",
+        "6346:2": "Divisiones"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Divisions",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Divisões",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Divisiones",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:13257",
+      "name": "Strings/Main Labels/Operation (plural)",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Operations",
+        "6346:1": "Operações",
+        "6346:2": "Operaciones"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Operations",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Operações",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Operaciones",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:23370",
+      "name": "and",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "and",
+        "6346:1": "e",
+        "6346:2": "y"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "and",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "e",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "y",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:23376",
+      "name": "Strings/Main Labels/Team (plural)",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Teams",
+        "6346:1": "Equipes",
+        "6346:2": "Equipos"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Teams",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Equipes",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Equipos",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:23377",
+      "name": "Strings/Main Labels/Team",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Team",
+        "6346:1": "Equipe",
+        "6346:2": "Equipo"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Team",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Equipe",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Equipo",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:23383",
+      "name": "Strings/Main Labels/Company (plural)",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Companies",
+        "6346:1": "Empresas",
+        "6346:2": "Compañías"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Companies",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Empresas",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Compañías",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:23384",
+      "name": "Strings/Main Labels/Company",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Company",
+        "6346:1": "Empresa",
+        "6346:2": "Compañía"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Company",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Empresa",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Compañía",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:23386",
+      "name": "Strings/Actions/Cancel",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Cancel",
+        "6346:1": "Cancelar",
+        "6346:2": "Cancelar"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Cancel",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Cancelar",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Cancelar",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:23390",
+      "name": "Strings/Actions/Save",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Save",
+        "6346:1": "Salvar",
+        "6346:2": "Guardar"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Save",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Salvar",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Guardar",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:23393",
+      "name": "Strings/Actions/Add",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Add",
+        "6346:1": "Adicionar",
+        "6346:2": "Añadir"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Add",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Adicionar",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Añadir",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:23397",
+      "name": "Strings/Actions/Delete",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Delete",
+        "6346:1": "Excluir",
+        "6346:2": "Borrar"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Delete",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Excluir",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Borrar",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:23401",
+      "name": "Strings/Actions/Edit",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Edit",
+        "6346:1": "Editar",
+        "6346:2": "Editar"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Edit",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Editar",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Editar",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:23407",
+      "name": "Strings/Actions/Select",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Select",
+        "6346:1": "Selecionar",
+        "6346:2": "Seleccionar"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Select",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Selecionar",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Seleccionar",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:23408",
+      "name": "Strings/Actions/Remove",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Remove",
+        "6346:1": "Remover",
+        "6346:2": "Eliminar"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Remove",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Remover",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Eliminar",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:23409",
+      "name": "Strings/Actions/Select/All",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Select all",
+        "6346:1": "Selecionar todos",
+        "6346:2": "Seleccionar todo"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Select all",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Selecionar todos",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Seleccionar todo",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:23410",
+      "name": "Strings/Actions/Remove/Selected",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Remove selected",
+        "6346:1": "Remover selecionado(s)",
+        "6346:2": "Eliminar seleccionado(s)"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Remove selected",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Remover selecionado(s)",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Eliminar seleccionado(s)",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:23414",
+      "name": "Strings/Actions/Remove/All",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Remove all",
+        "6346:1": "Remover todos",
+        "6346:2": "Eliminar todo"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Remove all",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Remover todos",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Eliminar todo",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6349:23415",
+      "name": "Strings/Actions/Select/To remove",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Select to remove",
+        "6346:1": "Selecione para remover",
+        "6346:2": "Seleccione para eliminar"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Select to remove",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Selecione para remover",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Seleccione para eliminar",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6352:8175",
+      "name": "Strings/Actions/Search",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Search",
+        "6346:1": "Pesquisar",
+        "6346:2": "Buscar"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Search",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Pesquisar",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Buscar",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6352:8176",
+      "name": "Strings/Actions/Add/New",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Add new",
+        "6346:1": "Adicionar novo(a)",
+        "6346:2": "Añadir nuevo(a)"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Add new",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Adicionar novo(a)",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Añadir nuevo(a)",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6352:8177",
+      "name": "Strings/Other Labels/Enabled",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Enabled",
+        "6346:1": "Ativo",
+        "6346:2": "Activo"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Enabled",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Ativo",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Activo",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6352:8181",
+      "name": "Strings/Other Labels/Disabled",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Disabled",
+        "6346:1": "Inativo",
+        "6346:2": "Inactivo"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Disabled",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Inativo",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Inactivo",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6352:8185",
+      "name": "Strings/Other Labels/Name",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Name",
+        "6346:1": "Nome",
+        "6346:2": "Nombre"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Name",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Nome",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Nombre",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6352:8189",
+      "name": "Strings/Other Labels/Access level",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Access level",
+        "6346:1": "Nível de acesso",
+        "6346:2": "Nivel de acceso"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Access level",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Nível de acesso",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Nivel de acceso",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6353:8183",
+      "name": "Samples/Managers/Variant 1/Name",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6346:12835"
+        },
+        "6346:1": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6346:12835"
+        },
+        "6346:2": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6346:12835"
+        }
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "John Doe",
+          "alias": "VariableID:6346:12835",
+          "aliasName": "Samples/User Identification/Name"
+        },
+        "6346:1": {
+          "resolvedValue": "John Doe",
+          "alias": "VariableID:6346:12835",
+          "aliasName": "Samples/User Identification/Name"
+        },
+        "6346:2": {
+          "resolvedValue": "John Doe",
+          "alias": "VariableID:6346:12835",
+          "aliasName": "Samples/User Identification/Name"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6353:8184",
+      "name": "Samples/Managers/Variant 2/Name",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Tom Smith",
+        "6346:1": "José dos Santos",
+        "6346:2": "Pablo Martínez"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Tom Smith",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "José dos Santos",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Pablo Martínez",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6353:8185",
+      "name": "Samples/Managers/Variant 3/Name",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Jane Bloggs",
+        "6346:1": "Maria Pereira",
+        "6346:2": "Sofía García"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Jane Bloggs",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Maria Pereira",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Sofía García",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6353:8186",
+      "name": "Strings/Other Labels/Default Permissions/Admin",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Administrator",
+        "6346:1": "Administrador",
+        "6346:2": "Administrador"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Administrator",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Administrador",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Administrador",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6353:8190",
+      "name": "Strings/Other Labels/Default Permissions/Operation",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Operations",
+        "6346:1": "Operação",
+        "6346:2": "Operación"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Operations",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Operação",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Operación",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6353:8193",
+      "name": "Strings/Other Labels/Default Permissions/Safety",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Health, Safety & Enviroment",
+        "6346:1": "Saúde e Segurança",
+        "6346:2": "Salud y Seguridad"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Health, Safety & Enviroment",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Saúde e Segurança",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Salud y Seguridad",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6353:8196",
+      "name": "Strings/Other Labels/Default Permissions/Medicine",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Medicine",
+        "6346:1": "Medicina",
+        "6346:2": "Medicina"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Medicine",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Medicina",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Medicina",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6353:8198",
+      "name": "Strings/Actions/Show",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Show",
+        "6346:1": "Exibir",
+        "6346:2": "Mostrar"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Show",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Exibir",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Mostrar",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6353:8199",
+      "name": "Strings/Actions/Hide",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Hide",
+        "6346:1": "Ocultar",
+        "6346:2": "Esconder"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Hide",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Ocultar",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Esconder",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6369:12871",
+      "name": "Strings/General/Hidden",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "hidden",
+        "6346:1": "oculto",
+        "6346:2": "oculto"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "hidden",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "oculto",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "oculto",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6369:12875",
+      "name": "Strings/General/Hidden (plural)",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "hidden",
+        "6346:1": "ocultos",
+        "6346:2": "ocultos"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "hidden",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "ocultos",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "ocultos",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6369:12876",
+      "name": "Strings/Other Labels/Page",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Page",
+        "6346:1": "Página",
+        "6346:2": "Página"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Page",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Página",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Página",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6369:12880",
+      "name": "Strings/Other Labels/Items per page",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Items per page",
+        "6346:1": "Itens por página",
+        "6346:2": "Elementos por pagina"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Items per page",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Itens por página",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Elementos por pagina",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6369:13526",
+      "name": "Strings/Actions/Save/Changes",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Save changes",
+        "6346:1": "Salvar alterações",
+        "6346:2": "Guardar cambios"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Save changes",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Salvar alterações",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Guardar cambios",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6369:13527",
+      "name": "Strings/Other Labels/Identification",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Identification",
+        "6346:1": "Identificação",
+        "6346:2": "Identificación"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Identification",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Identificação",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Identificación",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6369:13528",
+      "name": "Strings/Other Labels/Communication",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Communication",
+        "6346:1": "Comunicação",
+        "6346:2": "Comunicación"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Communication",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Comunicação",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Comunicación",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6369:14261",
+      "name": "Strings/Other Labels/Mobile phone",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Mobile phone",
+        "6346:1": "Telefone celular",
+        "6346:2": "Teléfono móvil"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Mobile phone",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Telefone celular",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Teléfono móvil",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6370:14262",
+      "name": "Strings/General/Same e-mail",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Same e-mail",
+        "6346:1": "Mesmo e-mail",
+        "6346:2": "Mismo e-mail"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Same e-mail",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Mesmo e-mail",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Mismo e-mail",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6370:14269",
+      "name": "Strings/Main Labels/Monitoring (plural)",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Monitorings",
+        "6346:1": "Monitoramentos",
+        "6346:2": "Monitoreos"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Monitorings",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Monitoramentos",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Monitoreos",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6370:14270",
+      "name": "Strings/Actions/Highlight",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Highlight",
+        "6346:1": "Destacar",
+        "6346:2": "Destacar"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Highlight",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Destacar",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Destacar",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6370:14271",
+      "name": "Strings/General/None",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "None",
+        "6346:1": "Nenhum",
+        "6346:2": "Ninguno(a)"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "None",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Nenhum",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Ninguno(a)",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6370:14272",
+      "name": "Strings/General/Not used in monitorings",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "is not being used in any monitoring.",
+        "6346:1": "não está sendo utilizado em nenhum monitoramento.",
+        "6346:2": "no se está utilizando en ningún monitoreo."
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "is not being used in any monitoring.",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "não está sendo utilizado em nenhum monitoramento.",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "no se está utilizando en ningún monitoreo.",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6371:13178",
+      "name": "Strings/General/Group",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Group",
+        "6346:1": "Grupo",
+        "6346:2": "Grupo"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Group",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Grupo",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Grupo",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6371:13187",
+      "name": "Samples/Broadcast Groups/Variant 1",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Safety Technicians - Daytime",
+        "6346:1": "Técnicos de Segurança - Diurno",
+        "6346:2": "Técnicos de seguridad - Diurno"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Safety Technicians - Daytime",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Técnicos de Segurança - Diurno",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Técnicos de seguridad - Diurno",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6371:13198",
+      "name": "Samples/Broadcast Groups/Variant 2",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Supervisors - Day",
+        "6346:1": "Supervisores - Dia",
+        "6346:2": "Supervisores - Día"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Supervisors - Day",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Supervisores - Dia",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Supervisores - Día",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6371:13201",
+      "name": "Samples/Broadcast Groups/Variant 3",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Medical Team",
+        "6346:1": "Equipe Médica",
+        "6346:2": "Equipo médico"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Medical Team",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Equipe Médica",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Equipo médico",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6371:13207",
+      "name": "Strings/Other Labels/Description",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Description",
+        "6346:1": "Descrição",
+        "6346:2": "Descripción"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Description",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Descrição",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Descripción",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6371:13211",
+      "name": "Strings/Other Labels/Optional",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Optional",
+        "6346:1": "Opcional",
+        "6346:2": "Opcional"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Optional",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Opcional",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Opcional",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6371:13222",
+      "name": "Samples/Managers/Variant 1/Email",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6346:12837"
+        },
+        "6346:1": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6346:12837"
+        },
+        "6346:2": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6346:12837"
+        }
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "johndoe@company.com",
+          "alias": "VariableID:6346:12837",
+          "aliasName": "Samples/User Identification/Email"
+        },
+        "6346:1": {
+          "resolvedValue": "johndoe@company.com",
+          "alias": "VariableID:6346:12837",
+          "aliasName": "Samples/User Identification/Email"
+        },
+        "6346:2": {
+          "resolvedValue": "johndoe@company.com",
+          "alias": "VariableID:6346:12837",
+          "aliasName": "Samples/User Identification/Email"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6371:13226",
+      "name": "Samples/Managers/Variant 2/Email",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "tomsmith@company.com",
+        "6346:1": "jose.santos@empresa.com.br",
+        "6346:2": "pablomartinez@compania.com"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "tomsmith@company.com",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "jose.santos@empresa.com.br",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "pablomartinez@compania.com",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6371:13230",
+      "name": "Samples/Managers/Variant 3/Email",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "janebloggs@company.com",
+        "6346:1": "maria.pereira@empresa.com.br",
+        "6346:2": "sofiagarcia@compania.com"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "janebloggs@company.com",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "maria.pereira@empresa.com.br",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "sofiagarcia@compania.com",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6468:13563",
+      "name": "Strings/Helpers/Broadcast group/Description",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Ex.: Health and Safety Technicians responsible for shifts between 6am and 6pm.",
+        "6346:1": "Ex.: Técnicos de Saúde e Segurança responsáveis pelos turnos entre 6h00 e 18h.",
+        "6346:2": "Ej.: Técnicos de Seguridad y Salud responsables de turnos entre las 6:00 y las 18:00."
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Ex.: Health and Safety Technicians responsible for shifts between 6am and 6pm.",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Ex.: Técnicos de Saúde e Segurança responsáveis pelos turnos entre 6h00 e 18h.",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Ej.: Técnicos de Seguridad y Salud responsables de turnos entre las 6:00 y las 18:00.",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6469:8623",
+      "name": "Strings/Other Labels/Surname",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Surname",
+        "6346:1": "Sobrenome",
+        "6346:2": "Apellido"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Surname",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Sobrenome",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Apellido",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6469:8627",
+      "name": "Strings/Other Labels/Registration",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Registration",
+        "6346:1": "Matrícula",
+        "6346:2": "Registro"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Registration",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Matrícula",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Registro",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6469:8628",
+      "name": "Strings/General/Last seen",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Last seen",
+        "6346:1": "Visto por último",
+        "6346:2": "Última vez visto"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Last seen",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Visto por último",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Última vez visto",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6469:8629",
+      "name": "Samples/Timestamps/Days ago",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "2 days ago",
+        "6346:1": "há 2 dias",
+        "6346:2": "Hace 2 días"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "2 days ago",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "há 2 dias",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Hace 2 días",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6469:8633",
+      "name": "Samples/Timestamps/Hours ago",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "3 hours ago",
+        "6346:1": "há 3 horas",
+        "6346:2": "Hace 3 horas"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "3 hours ago",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "há 3 horas",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Hace 3 horas",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6469:8659",
+      "name": "Strings/Other Labels/Registration (plural)",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Registrations",
+        "6346:1": "Matrículas",
+        "6346:2": "Registros"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Registrations",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Matrículas",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Registros",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6485:8616",
+      "name": "Samples/Teams/Variant 1",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Team A",
+        "6346:1": "Equipe A",
+        "6346:2": "Equipo A"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Team A",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Equipe A",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Equipo A",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6485:8620",
+      "name": "Samples/Teams/Variant 3",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Team C",
+        "6346:1": "Equipe C",
+        "6346:2": "Equipo C"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Team C",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Equipe C",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Equipo C",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6485:8623",
+      "name": "Samples/Teams/Variant 2",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Team B",
+        "6346:1": "Equipe B",
+        "6346:2": "Equipo B"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Team B",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Equipe B",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Equipo B",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6485:8624",
+      "name": "Samples/Workers/Variant 1/Name",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "James Williams",
+        "6346:1": "Francisco Pereira",
+        "6346:2": "Diego Lopez"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "James Williams",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Francisco Pereira",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Diego Lopez",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6485:8628",
+      "name": "Samples/Workers/Variant 1/Registration",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "100001",
+        "6346:1": "100001",
+        "6346:2": "100001"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "100001",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "100001",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "100001",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6485:8639",
+      "name": "Samples/Workers/Variant 1/Registration 2",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "0123456",
+        "6346:1": "0123456",
+        "6346:2": "0123456"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "0123456",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "0123456",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "0123456",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6485:8634",
+      "name": "Samples/Workers/Variant 1/Registration 2",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "0123456",
+        "6346:1": "0123456",
+        "6346:2": "0123456"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "0123456",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "0123456",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "0123456",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6485:8640",
+      "name": "Samples/Workers/Variant 1/Name 2",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Francisco Pereira",
+        "6346:1": "Francisco Pereira",
+        "6346:2": "String value"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Francisco Pereira",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Francisco Pereira",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "String value",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6485:8648",
+      "name": "Samples/Workers/Variant 2/Name 2",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "MIchael Johnson",
+        "6346:1": "Carlos de Almeida",
+        "6346:2": "Luis Morales"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "MIchael Johnson",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Carlos de Almeida",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Luis Morales",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6485:8649",
+      "name": "Samples/Workers/Variant 2/Registration 2",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "200002",
+        "6346:1": "200002",
+        "6346:2": "200002"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "200002",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "200002",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "200002",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6485:8650",
+      "name": "Strings/General/Not autorized by company",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Not authorized by your company.",
+        "6346:1": "Não autorizado pela sua empresa.",
+        "6346:2": "No autorizado por su compañía."
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Not authorized by your company.",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Não autorizado pela sua empresa.",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "No autorizado por su compañía.",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6485:8661",
+      "name": "Strings/Actions/Include",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Include",
+        "6346:1": "Incluir",
+        "6346:2": "Incluir"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Include",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Incluir",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Incluir",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6485:8662",
+      "name": "Strings/Helpers/Workers/Add multiple",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Add multiple workers by separating registrations with commas.",
+        "6346:1": "Adicione múltiplos colaboradores separando as matrículas por vírgulas.",
+        "6346:2": "Agregue múltiples trabajadores separando los registros con comas."
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Add multiple workers by separating registrations with commas.",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Adicione múltiplos colaboradores separando as matrículas por vírgulas.",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Agregue múltiples trabajadores separando los registros con comas.",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6485:8670",
+      "name": "Strings/Other Labels/Workers to add",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Workers to add",
+        "6346:1": "Colaboradores a adicionar",
+        "6346:2": "Trabajadores a añadir"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Workers to add",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Colaboradores a adicionar",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Trabajadores a añadir",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6485:8674",
+      "name": "Strings/Actions/Add/Confirm",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Confirm and add",
+        "6346:1": "Confirmar e adicionar",
+        "6346:2": "Confirma y añade"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Confirm and add",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Confirmar e adicionar",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Confirma y añade",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6485:8701",
+      "name": "Strings/Other Labels/Location",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Location",
+        "6346:1": "Local",
+        "6346:2": "Ubicación"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Location",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Local",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Ubicación",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6485:8635",
+      "name": "Samples/Workers/Variant 1/Name 2",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Francisco Pereira",
+        "6346:1": "Francisco Pereira",
+        "6346:2": "String value"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Francisco Pereira",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Francisco Pereira",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "String value",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6586:13457",
+      "name": "Strings/Main Labels/Dashboard",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Dashboard",
+        "6346:1": "Painel",
+        "6346:2": "Panel"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Dashboard",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Painel",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Panel",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6586:13461",
+      "name": "Strings/Main Labels/Dashboard (plural)",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Dashboards",
+        "6346:1": "Painéis",
+        "6346:2": "Paneles"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Dashboards",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Painéis",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Paneles",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6586:18872",
+      "name": "Strings/Other Labels/Filter",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Filter",
+        "6346:1": "Filtro",
+        "6346:2": "Filtro"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Filter",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Filtro",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Filtro",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6586:18876",
+      "name": "Strings/Other Labels/Filter (plural)",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Filters",
+        "6346:1": "Filtros",
+        "6346:2": "Filtros"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Filters",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Filtros",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Filtros",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6586:19198",
+      "name": "Strings/Other Labels/Data range",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Data range",
+        "6346:1": "Período dos dados",
+        "6346:2": "Período de datos"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Data range",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Período dos dados",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Período de datos",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6586:19202",
+      "name": "Strings/Main Labels/Risk Scenario",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Risk Scenario",
+        "6346:1": "Cenário de Risco",
+        "6346:2": "Escenario de Riesgo"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Risk Scenario",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Cenário de Risco",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Escenario de Riesgo",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6586:19206",
+      "name": "Strings/Main Labels/Risk Scenario (plural)",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Risk Scenarios",
+        "6346:1": "Cenários de Risco",
+        "6346:2": "Escenarios de Riesgo"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Risk Scenarios",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Cenários de Risco",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Escenarios de Riesgo",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6586:19260",
+      "name": "Strings/Other Labels/Incident level",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Incident level",
+        "6346:1": "Nível do incidente",
+        "6346:2": "Nivel de incidente"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Incident level",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Nível do incidente",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Nivel de incidente",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6586:19270",
+      "name": "Strings/Other Labels/Device",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Device",
+        "6346:1": "Dispositivo",
+        "6346:2": "Dispositivo"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Device",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Dispositivo",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Dispositivo",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6586:19274",
+      "name": "Strings/Other Labels/Device (plural)",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Devices",
+        "6346:1": "Dispositivos",
+        "6346:2": "Dispositivos"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Devices",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Dispositivos",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Dispositivos",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6597:3262",
+      "name": "Strings/Other Labels/Presentation mode",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Presentation mode",
+        "6346:1": "Modo apresentação",
+        "6346:2": "Modo de presentación"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Presentation mode",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Modo apresentação",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Modo de presentación",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6597:3263",
+      "name": "Strings/Other Labels/More",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "More",
+        "6346:1": "Mais",
+        "6346:2": "Más"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "More",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Mais",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Más",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6597:3268",
+      "name": "Strings/Actions/Share",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Share",
+        "6346:1": "Compartilhar",
+        "6346:2": "Compartir"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Share",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Compartilhar",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Compartir",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6597:3272",
+      "name": "Strings/Actions/Export",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Export",
+        "6346:1": "Exportar",
+        "6346:2": "Exportar"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Export",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Exportar",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Exportar",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6597:3290",
+      "name": "Strings/Other Labels/Refresh rate",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Refresh rate",
+        "6346:1": "Taxa de atualização",
+        "6346:2": "Frecuencia de actualización"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Refresh rate",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Taxa de atualização",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Frecuencia de actualización",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6597:3291",
+      "name": "Samples/Refresh rate/2 minutes",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "2 minutes",
+        "6346:1": "2 minutos",
+        "6346:2": "2 minutos"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "2 minutes",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "2 minutos",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "2 minutos",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6597:3295",
+      "name": "Samples/Refresh rate/5 minutes",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "5 minutes",
+        "6346:1": "5 minutos",
+        "6346:2": "5 minutos"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "5 minutes",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "5 minutos",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "5 minutos",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6597:3298",
+      "name": "Samples/Refresh rate/10 minutes",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "10 minutes",
+        "6346:1": "10 minutos",
+        "6346:2": "10 minutos"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "10 minutes",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "10 minutos",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "10 minutos",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6597:3302",
+      "name": "Samples/Refresh rate/30 minutes",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "30 minutes",
+        "6346:1": "30 minutos",
+        "6346:2": "30 minutos"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "30 minutes",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "30 minutos",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "30 minutos",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6597:3306",
+      "name": "Samples/Refresh rate/1 hour",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "60 minutes",
+        "6346:1": "60 minutos",
+        "6346:2": "60 minutos"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "60 minutes",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "60 minutos",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "60 minutos",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6597:3322",
+      "name": "Samples/Refresh rate/30 minutes 2",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "30 minutes",
+        "6346:1": "String value",
+        "6346:2": "String value"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "30 minutes",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "String value",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "String value",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6597:3323",
+      "name": "Strings/Other Labels/Every",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "every",
+        "6346:1": "a cada",
+        "6346:2": "cada"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "every",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "a cada",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "cada",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6597:3318",
+      "name": "Samples/Refresh rate/30 minutes 2",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "30 minutes",
+        "6346:1": "String value",
+        "6346:2": "String value"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "30 minutes",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "String value",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "String value",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6606:3379",
+      "name": "Strings/Other Labels/Type to",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Type to",
+        "6346:1": "Digite para",
+        "6346:2": "Escribe para buscar"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Type to",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Digite para",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Escribe para buscar",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6607:16767",
+      "name": "Strings/Other Labels/Incident/Level/Level 1",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "1",
+        "6346:1": "1",
+        "6346:2": "1"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "1",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "1",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "1",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6607:16771",
+      "name": "Strings/Other Labels/Incident/Level/Level 2",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "2",
+        "6346:1": "2",
+        "6346:2": "2"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "2",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "2",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "2",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6607:16787",
+      "name": "Strings/Other Labels/Incident/Level/Level 3",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "3",
+        "6346:1": "3",
+        "6346:2": "3"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "3",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "3",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "3",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6607:16790",
+      "name": "Strings/Other Labels/Incident/Level/Level 4",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "4",
+        "6346:1": "4",
+        "6346:2": "4"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "4",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "4",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "4",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6607:16793",
+      "name": "Strings/Other Labels/Incident/Level/Level 5",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "5",
+        "6346:1": "5",
+        "6346:2": "5"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "5",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "5",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "5",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6682:8527",
+      "name": "Strings/General/New",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "New",
+        "6346:1": "Novo(a)",
+        "6346:2": "Nuevo(a)"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "New",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Novo(a)",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Nuevo(a)",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6682:8579",
+      "name": "Strings/Actions/Reorder",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Reorder",
+        "6346:1": "Reordenar",
+        "6346:2": "Reordenar"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Reorder",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Reordenar",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Reordenar",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6683:16754",
+      "name": "Samples/Dashboards/Titles/Variant 1",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Control Tower",
+        "6346:1": "Torre de Controle",
+        "6346:2": "Torre de Control"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Control Tower",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Torre de Controle",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Torre de Control",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6683:16758",
+      "name": "Samples/Dashboards/Titles/Variant 2",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Fatigue Monitoring",
+        "6346:1": "Acompanhamento da Fadiga",
+        "6346:2": "Monitoreo de la Fatiga"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Fatigue Monitoring",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Acompanhamento da Fadiga",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Monitoreo de la Fatiga",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6683:16761",
+      "name": "Samples/Dashboards/Titles/Variant 3",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Occupational Hygiene",
+        "6346:1": "Higiene Ocupacional",
+        "6346:2": "Higiene Laboral"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Occupational Hygiene",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Higiene Ocupacional",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Higiene Laboral",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6683:16771",
+      "name": "Samples/Dashboards/Titles/Locked 1",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Operational",
+        "6346:1": "Operacional",
+        "6346:2": "Operacional"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Operational",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Operacional",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Operacional",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6683:16775",
+      "name": "Samples/Dashboards/Titles/Locked 2",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Safety",
+        "6346:1": "Segurança",
+        "6346:2": "Seguridad"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Safety",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Segurança",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Seguridad",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6683:16778",
+      "name": "Samples/Dashboards/Titles/Locked 3",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Medicine",
+        "6346:1": "Medicina",
+        "6346:2": "Medicina"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Medicine",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Medicina",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Medicina",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6683:16782",
+      "name": "Samples/Dashboards/Titles/Default",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Dashboard n°1 - 30th april/25",
+        "6346:1": "Painel n°1 - 30 abril/25",
+        "6346:2": "Panel n°1 - 30 abril/25"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Dashboard n°1 - 30th april/25",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Painel n°1 - 30 abril/25",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Panel n°1 - 30 abril/25",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6695:8545",
+      "name": "Samples/Dashboards/Widgets/Variant 1/Title",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Actions taken",
+        "6346:1": "Ações tomadas",
+        "6346:2": "Acciones realizadas"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Actions taken",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Ações tomadas",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Acciones realizadas",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6695:8549",
+      "name": "Samples/Dashboards/Widgets/Variant 1/Description",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Distribution of actions taken",
+        "6346:1": "Distribuição das ações tomadas",
+        "6346:2": "Distribución de las acciones realizadas"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Distribution of actions taken",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Distribuição das ações tomadas",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Distribución de las acciones realizadas",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6695:8565",
+      "name": "Strings/Other Labels/From period/Last month",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "from last month",
+        "6346:1": "que mês passado",
+        "6346:2": "que el mes pasado"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "from last month",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "que mês passado",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "que el mes pasado",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6695:8569",
+      "name": "Strings/Other Labels/From period/Yesterday",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "from yesterday",
+        "6346:1": "que ontem",
+        "6346:2": "que ayer"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "from yesterday",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "que ontem",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "que ayer",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6695:8573",
+      "name": "Strings/Other Labels/From period/Last week",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "from last week",
+        "6346:1": "que semana passada",
+        "6346:2": "que la semana pasada"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "from last week",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "que semana passada",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "que la semana pasada",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6696:3194",
+      "name": "Samples/Dashboards/Widgets/Variant 2/Title",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Incidents by worker",
+        "6346:1": "Incidentes por colaborador",
+        "6346:2": "Incidentes por trabajador"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Incidents by worker",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Incidentes por colaborador",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Incidentes por trabajador",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6696:3195",
+      "name": "Samples/Dashboards/Widgets/Variant 2/Description",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Number of incidents generated by each monitored worker",
+        "6346:1": "Quantidade de incidentes gerados por cada colaborador monitorado",
+        "6346:2": "Número de incidentes generados por cada trabajador monitoreado"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Number of incidents generated by each monitored worker",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Quantidade de incidentes gerados por cada colaborador monitorado",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Número de incidentes generados por cada trabajador monitoreado",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6699:8509",
+      "name": "Strings/Other Labels/Widget",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Widget",
+        "6346:1": "Widget",
+        "6346:2": "Widget"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Widget",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Widget",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Widget",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6699:8513",
+      "name": "Strings/Other Labels/Widget (plural)",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Widgets",
+        "6346:1": "Widgets",
+        "6346:2": "Widgets"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Widgets",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Widgets",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Widgets",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6705:3971",
+      "name": "Strings/Other Labels/Edit mode",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Edit mode",
+        "6346:1": "Modo de edição",
+        "6346:2": "Modo de edición"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Edit mode",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Modo de edição",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Modo de edición",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6705:4029",
+      "name": "Strings/Actions/Cancel/Edit",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Cancel editing",
+        "6346:1": "Cancelar edição",
+        "6346:2": "Cancelar edición"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Cancel editing",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Cancelar edição",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Cancelar edición",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6884:9192",
+      "name": "Strings/Actions/Back",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Back",
+        "6346:1": "Voltar",
+        "6346:2": "Volver"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Back",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Voltar",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Volver",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6884:9193",
+      "name": "Strings/Actions/Back/To list",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Back to full list",
+        "6346:1": "Voltar para a lista",
+        "6346:2": "Volver a la lista"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Back to full list",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Voltar para a lista",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Volver a la lista",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6890:12811",
+      "name": "Strings/Other Labels/Dashboard/Data source",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Data source",
+        "6346:1": "Fonte de dados",
+        "6346:2": "Fuente de datos"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Data source",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Fonte de dados",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Fuente de datos",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6891:12812",
+      "name": "Strings/Other Labels/Dashboard/Metric",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Metrics",
+        "6346:1": "Indicadores",
+        "6346:2": "Indicadores"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Metrics",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Indicadores",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Indicadores",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6891:12816",
+      "name": "Strings/Helpers/Dashboard/Metric placeholder",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Select the metrics to be used in the chart...",
+        "6346:1": "Selecione os indicadores a ser utilizado no gráfico...",
+        "6346:2": "Seleccione los indicadores que se utilizará en el gráfico..."
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Select the metrics to be used in the chart...",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Selecione os indicadores a ser utilizado no gráfico...",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Seleccione los indicadores que se utilizará en el gráfico...",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6891:17751",
+      "name": "Strings/Other Labels/Automatic",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Automatic",
+        "6346:1": "Automático",
+        "6346:2": "Automático"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Automatic",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Automático",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Automático",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6891:17760",
+      "name": "Strings/Other Labels/Title",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Title",
+        "6346:1": "Título",
+        "6346:2": "Título"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Title",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Título",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Título",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6891:17761",
+      "name": "Strings/Other Labels/Icon",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Icon",
+        "6346:1": "Ícone",
+        "6346:2": "Icono"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Icon",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Ícone",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Icono",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6891:17763",
+      "name": "Strings/Other Labels/Color",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Color",
+        "6346:1": "Cor",
+        "6346:2": "Color"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Color",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Cor",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Color",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6891:17866",
+      "name": "Strings/Helpers/Dashboard/Description placeholder",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Enter a short description explaining the purpose of the chart...",
+        "6346:1": "Digite uma descrição curta explicando a finalidade do gráfico...",
+        "6346:2": "Ingrese una breve descripción que explique el propósito del gráfico..."
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Enter a short description explaining the purpose of the chart...",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Digite uma descrição curta explicando a finalidade do gráfico...",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Ingrese una breve descripción que explique el propósito del gráfico...",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6894:4281",
+      "name": "Strings/Other Labels/Dashboard/Period",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Period",
+        "6346:1": "Período",
+        "6346:2": "Período"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Period",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Período",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Período",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6894:4282",
+      "name": "Strings/Other Labels/Dashboard/X Axis",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "X Axis",
+        "6346:1": "Eixo X",
+        "6346:2": "Eje X"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "X Axis",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Eixo X",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Eje X",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6894:4286",
+      "name": "Strings/Other Labels/Dashboard/Y Axis",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Y Axis",
+        "6346:1": "Eixo Y",
+        "6346:2": "Eje Y"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Y Axis",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Eixo Y",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Eje Y",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6894:12914",
+      "name": "Strings/Other Labels/Dashboard/Period/by Hour",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "by Hour",
+        "6346:1": "por Hora",
+        "6346:2": "por Hora"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "by Hour",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "por Hora",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "por Hora",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6894:12918",
+      "name": "Strings/Other Labels/Dashboard/Period/by Day",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "by Day",
+        "6346:1": "por Dia",
+        "6346:2": "por Día"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "by Day",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "por Dia",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "por Día",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6894:12921",
+      "name": "Strings/Other Labels/Dashboard/Period/by Month",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "by Month",
+        "6346:1": "por Mês",
+        "6346:2": "por Mes"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "by Month",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "por Mês",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "por Mes",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6894:12932",
+      "name": "Strings/Other Labels/Dashboard/Period/by Week",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "by Week",
+        "6346:1": "por Semana",
+        "6346:2": "por Semana"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "by Week",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "por Semana",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "por Semana",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6895:18864",
+      "name": "Strings/Other Labels/Dashboard/Amount",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Amount",
+        "6346:1": "Quantidade",
+        "6346:2": "Cantidad"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Amount",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Quantidade",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Cantidad",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6896:4384",
+      "name": "Strings/Helpers/Dashboard/Insert axis title",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Insert a title for the axis...",
+        "6346:1": "Digite um título para o eixo...",
+        "6346:2": "Introduzca un título para el eje..."
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Insert a title for the axis...",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Digite um título para o eixo...",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Introduzca un título para el eje...",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:7066:12966",
+      "name": "Strings/Other Labels/Personal data",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Personal data",
+        "6346:1": "Dados pessoais",
+        "6346:2": "Datos personales"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Personal data",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Dados pessoais",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Datos personales",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:7066:12970",
+      "name": "Strings/Other Labels/Date of birth",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Date of birth",
+        "6346:1": "Data de nascimento",
+        "6346:2": "Fecha de nacimiento"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Date of birth",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Data de nascimento",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Fecha de nacimiento",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:7066:12974",
+      "name": "Strings/Other Labels/Weight",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Weight",
+        "6346:1": "Peso",
+        "6346:2": "Peso"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Weight",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Peso",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Peso",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:7066:12975",
+      "name": "Strings/Helpers/in kilograms",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "in kilograms",
+        "6346:1": "em quilos",
+        "6346:2": "en kilos"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "in kilograms",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "em quilos",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "en kilos",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:7066:12979",
+      "name": "Strings/Helpers/date format",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "dd/mm/yyyy",
+        "6346:1": "dd/mm/aaaa",
+        "6346:2": "dd/mm/aaaa"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "dd/mm/yyyy",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "dd/mm/aaaa",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "dd/mm/aaaa",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:7066:12983",
+      "name": "Strings/Other Labels/Weight/kg",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "6346:0": "Weight (kg)",
+        "6346:1": "Peso (kg)",
+        "6346:2": "Peso (kg)"
+      },
+      "resolvedValuesByMode": {
+        "6346:0": {
+          "resolvedValue": "Weight (kg)",
+          "alias": null
+        },
+        "6346:1": {
+          "resolvedValue": "Peso (kg)",
+          "alias": null
+        },
+        "6346:2": {
+          "resolvedValue": "Peso (kg)",
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dersalis-language-files",
+  "version": "0.0.1",
+  "description": "Convert Figma Variables into XLIFF language files",
+  "license": "ISC",
+  "author": "Fabio Pittol",
+  "type": "commonjs",
+  "main": "figma2xliff.js",
+  "dependencies": {
+    "minimist-lite": "^2.3.0",
+    "xmlbuilder": "^15.1.1"
+  }
+}
