@@ -1,0 +1,5 @@
+# Ignora dependências do Node.js
+node_modules/
+
+# Ignora arquivos XLIFF gerados
+**/*.xlf
